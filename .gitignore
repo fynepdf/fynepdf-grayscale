@@ -2,3 +2,5 @@ build/
 *.log
 dist/
 npm/out/
+config.bat
+node_modules
